@@ -129,7 +129,7 @@ Students will properly demonstrate code comprehension and debugging techniques.
 
 ## STANDARD 6 - Team Programming
 
-Students will apply appropriate programming skills as an effective member of a team demonstrating the ability to collaborate with others (www.p21.org).
+Students will apply appropriate programming skills as an effective member of a team demonstrating the ability to collaborate with others.
 
 ### Objective 1: Demonstrate the ability to apply knowledge to a programming project.
 1. Formalize specifications
@@ -218,5 +218,3 @@ Performance assessments may be completed and evaluated at any time during the co
 - Develop awareness of career opportunities in the computer programming/software engineering industry and of its history.
 
 ---
-
-*www.youscience.com Computer Programming 2 Java | 2024*
